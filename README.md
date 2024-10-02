@@ -1,1 +1,1 @@
-# Ex-1-Mapping-views
+# Django-Mapping-views
